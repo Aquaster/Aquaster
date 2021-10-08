@@ -1,5 +1,4 @@
-### Hi there 👋
-
+###
 <img align="center" src="https://raw.githubusercontent.com/Aquaster/Aquaster/main/deb2.png">
 
 <!--
